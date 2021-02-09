@@ -12,4 +12,4 @@ csv files about city statistics
 bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I have learned creating adn using gitignore file from this video:  https://www.youtube.com/watch?v=f3yQu7YepuE
