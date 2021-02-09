@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+09.02.2021
 
 ### Project Title
-Replace the Project Title
+Bikeshare codes to GitHub
 
 ### Description
-Describe what your project is about and what it does
+Deploying Bikeshare codes to GitHub
 
 ### Files used
-Include the files used
+csv files about city statistics
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
